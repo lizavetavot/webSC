@@ -1,0 +1,2218 @@
+{
+    "history": [
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T09:57:13Z",
+            "new_name": "Симптом",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 88,
+            "old_name": "Синдром",
+            "old_namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1634637433
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 88,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 99,
+            "source_id": 81,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 38,
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 86,
+            "source_id": 83,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 88,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 97,
+            "source_id": 77,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 38,
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 92,
+            "source_id": 74,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 88,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 105,
+            "source_id": 74,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "name": "Раздражительность",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 74,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 38,
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 84,
+            "source_id": 71,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 88,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 104,
+            "source_id": 71,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "name": "Слабость",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 71,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 38,
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 90,
+            "source_id": 75,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 88,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 101,
+            "source_id": 75,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "name": "Астения",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 75,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 38,
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 85,
+            "source_id": 82,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 88,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 102,
+            "source_id": 82,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "name": "Полидипсия",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 82,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 88,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 100,
+            "source_id": 76,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 38,
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 94,
+            "source_id": 79,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 38,
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 87,
+            "source_id": 72,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 88,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 103,
+            "source_id": 72,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "name": "Адинамия",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 72,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 38,
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 96,
+            "source_id": 81,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "name": "Выпадения здоровых зубов",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 81,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 38,
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 93,
+            "source_id": 76,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 38,
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 91,
+            "source_id": 73,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 88,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 107,
+            "source_id": 73,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "name": "Депрессия",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 73,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 88,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 98,
+            "source_id": 79,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 88,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 106,
+            "source_id": 83,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "name": "Симптом",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 88,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "destination_id": 38,
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 95,
+            "source_id": 77,
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "name": "Апатия",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 77,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "name": "Полиурия",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 83,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "name": "Сонливость",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 76,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:02:08Z",
+            "name": "Снижения массы тела",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 79,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1634637728
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:03:21Z",
+            "new_name": "Группа медицинских заболеваний",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 1,
+            "old_name": "Медицина",
+            "old_namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1634637801
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:03:29Z",
+            "destination_id": 2,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 3,
+            "source_id": 1,
+            "timestamp": 1634637809
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:03:31Z",
+            "node_id": 151,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1634637811
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:03:37Z",
+            "new_name": "Медицина",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 151,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1634637817
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:12:29Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "a_part_of",
+            "old_namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 25,
+            "timestamp": 1634638349
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:13:00Z",
+            "destination_id": 2,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 152,
+            "source_id": 151,
+            "timestamp": 1634638380
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:13:04Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 152,
+            "timestamp": 1634638384
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:13:21Z",
+            "destination_id": 151,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 153,
+            "source_id": 1,
+            "timestamp": 1634638401
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:13:29Z",
+            "new_name": "a_part_of",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 153,
+            "timestamp": 1634638409
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:15:09Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "a_part_of",
+            "old_namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 31,
+            "timestamp": 1634638509
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:15:15Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "a_part_of",
+            "old_namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 30,
+            "timestamp": 1634638515
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:15:21Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "a_part_of",
+            "old_namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 29,
+            "timestamp": 1634638521
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:15:27Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "a_part_of",
+            "old_namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 28,
+            "timestamp": 1634638527
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:15:52Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "a_part_of",
+            "old_namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 27,
+            "timestamp": 1634638552
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:16:00Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "a_part_of",
+            "old_namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 26,
+            "timestamp": 1634638560
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:16:47Z",
+            "node_id": 154,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1634638607
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:17:15Z",
+            "new_name": "Лабораторное исследование",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 154,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1634638635
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:17:30Z",
+            "destination_id": 151,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 155,
+            "source_id": 154,
+            "timestamp": 1634638650
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:17:34Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 155,
+            "timestamp": 1634638654
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:20:57Z",
+            "destination_id": 9,
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 15,
+            "source_id": 1,
+            "timestamp": 1634638857
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:24:19Z",
+            "node_id": 156,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1634639059
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:24:31Z",
+            "new_name": "Таблица",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 156,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1634639071
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:24:37Z",
+            "destination_id": 156,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 157,
+            "source_id": 122,
+            "timestamp": 1634639077
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:24:44Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 157,
+            "timestamp": 1634639084
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:33:59Z",
+            "node_id": 158,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1634639639
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:34:24Z",
+            "new_name": "id_syppt_syndr",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 158,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1634639664
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:34:32Z",
+            "node_id": 159,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1634639672
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:35:04Z",
+            "new_name": "Primary key",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 159,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1634639704
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:35:06Z",
+            "node_id": 160,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1634639706
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:35:16Z",
+            "new_name": "Foreign Key",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 160,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1634639716
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:35:27Z",
+            "destination_id": 122,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 161,
+            "source_id": 158,
+            "timestamp": 1634639727
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:35:33Z",
+            "new_name": "a_part_of",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 161,
+            "timestamp": 1634639733
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:35:37Z",
+            "destination_id": 159,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 162,
+            "source_id": 158,
+            "timestamp": 1634639737
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:36:26Z",
+            "destination_id": 160,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 163,
+            "source_id": 137,
+            "timestamp": 1634639786
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:36:30Z",
+            "destination_id": 160,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 164,
+            "source_id": 138,
+            "timestamp": 1634639790
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:37:05Z",
+            "destination_id": 156,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 165,
+            "source_id": 110,
+            "timestamp": 1634639825
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:37:12Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 165,
+            "timestamp": 1634639832
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:37:52Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 162,
+            "timestamp": 1634639872
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:37:59Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 164,
+            "timestamp": 1634639879
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:38:03Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 163,
+            "timestamp": 1634639883
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:42:37Z",
+            "new_name": "Репозиторий SympChecker",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "node_id": 9,
+            "old_name": "SympChecker",
+            "old_namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1634640157
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:51:37Z",
+            "destination_id": 156,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 166,
+            "source_id": 109,
+            "timestamp": 1634640697
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:51:42Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "is_a",
+            "old_namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 165,
+            "timestamp": 1634640702
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:51:46Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 166,
+            "timestamp": 1634640706
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T10:51:51Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "is_a",
+            "old_namespace": "http://knova.ru/user/1634578094388",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 165,
+            "timestamp": 1634640711
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T11:00:46Z",
+            "destination_id": 127,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 167,
+            "source_id": 38,
+            "timestamp": 1634641246
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T11:01:00Z",
+            "new_name": "match",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 167,
+            "timestamp": 1634641260
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T11:01:28Z",
+            "destination_id": 127,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 168,
+            "source_id": 35,
+            "timestamp": 1634641288
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T11:01:39Z",
+            "destination_id": 127,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 169,
+            "source_id": 37,
+            "timestamp": 1634641299
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T11:01:44Z",
+            "new_name": "match",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 168,
+            "timestamp": 1634641304
+        },
+        {
+            "author": "biogenom1@knova.ru",
+            "datetime": "2021-10-19T11:01:48Z",
+            "new_name": "match",
+            "new_namespace": "http://knova.ru/user/1634578094388",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 169,
+            "timestamp": 1634641308
+        }
+    ],
+    "last_id": "195",
+    "namespaces": {
+        "default": "http://knova.ru/user/1634578094388",
+        "ontolis-avis": "http://knova.ru/ontolis-avis",
+        "owl": "http://www.w3.org/2002/07/owl",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema",
+        "xsd": "http://www.w3.org/2001/XMLSchema"
+    },
+    "nodes": [
+        {
+            "attributes": {
+            },
+            "id": "1",
+            "name": "Группа медицинских заболеваний",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1835,
+            "position_y": 503
+        },
+        {
+            "attributes": {
+            },
+            "id": "2",
+            "name": "Предметная область",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2093,
+            "position_y": 410
+        },
+        {
+            "attributes": {
+            },
+            "id": "4",
+            "name": "Экология",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2245,
+            "position_y": 461
+        },
+        {
+            "attributes": {
+            },
+            "id": "6",
+            "name": "Источник",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1578,
+            "position_y": 303
+        },
+        {
+            "attributes": {
+            },
+            "id": "7",
+            "name": "Автор",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1478,
+            "position_y": 329
+        },
+        {
+            "attributes": {
+            },
+            "id": "8",
+            "name": "Паттерн",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 946,
+            "position_y": 304
+        },
+        {
+            "attributes": {
+            },
+            "id": "9",
+            "name": "Репозиторий SympChecker",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 963,
+            "position_y": 200
+        },
+        {
+            "attributes": {
+            },
+            "id": "16",
+            "name": "БД",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 624,
+            "position_y": 340
+        },
+        {
+            "attributes": {
+            },
+            "id": "18",
+            "name": "Эндокринология",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1465,
+            "position_y": 699
+        },
+        {
+            "attributes": {
+            },
+            "id": "19",
+            "name": "Кардиология",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2262,
+            "position_y": 670
+        },
+        {
+            "attributes": {
+            },
+            "id": "20",
+            "name": "Гематология",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2259,
+            "position_y": 633
+        },
+        {
+            "attributes": {
+            },
+            "id": "21",
+            "name": "Пульмонология",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2264,
+            "position_y": 704
+        },
+        {
+            "attributes": {
+            },
+            "id": "22",
+            "name": "Ревматология и аллергология",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2259,
+            "position_y": 564
+        },
+        {
+            "attributes": {
+            },
+            "id": "23",
+            "name": "Нефрология",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2260,
+            "position_y": 599
+        },
+        {
+            "attributes": {
+            },
+            "id": "24",
+            "name": "Гастроэнтерология",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2267,
+            "position_y": 737
+        },
+        {
+            "attributes": {
+            },
+            "id": "32",
+            "name": "Синдром гипотериоза",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2230,
+            "position_y": 884
+        },
+        {
+            "attributes": {
+            },
+            "id": "33",
+            "name": "Синдром тиреотоксикоза",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2237,
+            "position_y": 923
+        },
+        {
+            "attributes": {
+            },
+            "id": "34",
+            "name": "Синдром инсулиновой недостаточности",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2221,
+            "position_y": 845
+        },
+        {
+            "attributes": {
+            },
+            "id": "35",
+            "name": "Типичные осложнения сахарного диабета",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1328,
+            "position_y": 1085
+        },
+        {
+            "attributes": {
+            },
+            "id": "36",
+            "name": "Синдром гиперинсулинизма",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1776,
+            "position_y": 1060
+        },
+        {
+            "attributes": {
+            },
+            "id": "37",
+            "name": "Синдром гипопаратиреоза",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1598,
+            "position_y": 1080
+        },
+        {
+            "attributes": {
+            },
+            "id": "38",
+            "name": "Синдром гиперпаратиреоза",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1127,
+            "position_y": 1083
+        },
+        {
+            "attributes": {
+            },
+            "id": "39",
+            "name": "Синдром гиперкортицизма",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2011,
+            "position_y": 1019
+        },
+        {
+            "attributes": {
+            },
+            "id": "40",
+            "name": "Синдром хронической недпочечниковой недостаточности",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1986,
+            "position_y": 1053
+        },
+        {
+            "attributes": {
+            },
+            "id": "41",
+            "name": "Синдром острой недостаточности коры надпочечников",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2190,
+            "position_y": 1007
+        },
+        {
+            "attributes": {
+            },
+            "id": "42",
+            "name": "Синдром Конна",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2189,
+            "position_y": 963
+        },
+        {
+            "attributes": {
+            },
+            "id": "59",
+            "name": "Синдром",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1904,
+            "position_y": 629
+        },
+        {
+            "attributes": {
+            },
+            "id": "109",
+            "name": "syndromes_from_teaching_aid",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 942,
+            "position_y": 671
+        },
+        {
+            "attributes": {
+            },
+            "id": "110",
+            "name": "symptoms_from_teaching_aid",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 710,
+            "position_y": 766
+        },
+        {
+            "attributes": {
+            },
+            "id": "114",
+            "name": "id",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 612,
+            "position_y": 994
+        },
+        {
+            "attributes": {
+            },
+            "id": "115",
+            "name": "symptom",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 645,
+            "position_y": 991
+        },
+        {
+            "attributes": {
+            },
+            "id": "116",
+            "name": "reson",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 720,
+            "position_y": 990
+        },
+        {
+            "attributes": {
+            },
+            "id": "122",
+            "name": "symptoms_of_syndromes_from_teaching_aid",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 338,
+            "position_y": 671
+        },
+        {
+            "attributes": {
+            },
+            "id": "124",
+            "name": "id",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 785,
+            "position_y": 922
+        },
+        {
+            "attributes": {
+            },
+            "id": "125",
+            "name": "source",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1048,
+            "position_y": 925
+        },
+        {
+            "attributes": {
+            },
+            "id": "127",
+            "name": "name",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1138,
+            "position_y": 902
+        },
+        {
+            "attributes": {
+            },
+            "id": "128",
+            "name": "reason",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 816,
+            "position_y": 922
+        },
+        {
+            "attributes": {
+            },
+            "id": "129",
+            "name": "code_icd",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 870,
+            "position_y": 922
+        },
+        {
+            "attributes": {
+            },
+            "id": "130",
+            "name": "expert_code_icd",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 939,
+            "position_y": 923
+        },
+        {
+            "attributes": {
+            },
+            "id": "137",
+            "name": "id_syndrom",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 510,
+            "position_y": 870
+        },
+        {
+            "attributes": {
+            },
+            "id": "138",
+            "name": "id_symptom",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 420,
+            "position_y": 870
+        },
+        {
+            "attributes": {
+            },
+            "id": "141",
+            "name": "([а-яА-ЯёЁ0-9-:;,\\(\\)]\\s*)*(имптом)(ы|ами)*(\\s*([а-яА-ЯёЁ0-9]*))*([:]*)([-]*)((\\s*([а-яА-ЯёЁ0-9]*))*([-:;,\\(\\)]*))*",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1175,
+            "position_y": 429
+        },
+        {
+            "attributes": {
+            },
+            "id": "142",
+            "name": "(СИМПТОМЫ|ПРИЗНАКИ)((.*?)(\\s*))*((Синдром|синдром))",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1148,
+            "position_y": 470
+        },
+        {
+            "attributes": {
+            },
+            "id": "143",
+            "name": "(СИМПТОМЫ|ПРИЗНАКИ)((.*?)(\\s*))+(:)",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 815,
+            "position_y": 432
+        },
+        {
+            "attributes": {
+            },
+            "id": "144",
+            "name": "(СИМПТОМЫ|ПРИЗНАКИ)((.*?)(\\s*))*((.*?)(\\s*))*($)",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1103,
+            "position_y": 504
+        },
+        {
+            "attributes": {
+            },
+            "id": "145",
+            "name": "(СИМПТОМЫ|ПРИЗНАКИ)((.*?)(\\s*))*((.*?)(\\s*))*($|((Синдром|синдром)))",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1066,
+            "position_y": 546
+        },
+        {
+            "attributes": {
+            },
+            "id": "151",
+            "name": "Медицина",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1959,
+            "position_y": 454
+        },
+        {
+            "attributes": {
+            },
+            "id": "154",
+            "name": "Лабораторное исследование",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 2065,
+            "position_y": 503
+        },
+        {
+            "attributes": {
+            },
+            "id": "156",
+            "name": "Таблица",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 424,
+            "position_y": 441
+        },
+        {
+            "attributes": {
+            },
+            "id": "158",
+            "name": "id_syppt_syndr",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 301,
+            "position_y": 870
+        },
+        {
+            "attributes": {
+            },
+            "id": "159",
+            "name": "Primary key",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 202,
+            "position_y": 675
+        },
+        {
+            "attributes": {
+            },
+            "id": "160",
+            "name": "Foreign Key",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 200,
+            "position_y": 762
+        },
+        {
+            "attributes": {
+            },
+            "id": "170",
+            "name": "Паттерн для предобработки",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 783,
+            "position_y": 371
+        },
+        {
+            "attributes": {
+            },
+            "id": "173",
+            "name": "Паттерн для извлечения симптома",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1092,
+            "position_y": 363
+        },
+        {
+            "attributes": {
+            },
+            "id": "190",
+            "name": "(n1)((.*?)(\\s*))*(n2)",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1032,
+            "position_y": 582
+        },
+        {
+            "attributes": {
+            },
+            "id": "191",
+            "name": "(ОСНОВНЫЕ СИМПТОМЫ|СИМПТОМЫ)((.*?)(\\s*))+(#)",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 968,
+            "position_y": 617
+        },
+        {
+            "attributes": {
+            },
+            "id": "192",
+            "name": "(nn)((.*?)(\\s*))*($)",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "position_x": 1338,
+            "position_y": 613
+        }
+    ],
+    "relations": [
+        {
+            "attributes": {
+            },
+            "destination_node_id": "2",
+            "id": "5",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "4"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "9",
+            "id": "10",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "8"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "9",
+            "id": "12",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "7"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "9",
+            "id": "13",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "6"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "9",
+            "id": "17",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "16"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "26",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "24"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "27",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "21"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "28",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "19"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "29",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "20"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "30",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "23"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "31",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "22"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "43",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "32"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "44",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "33"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "45",
+            "name": "",
+            "namespace": "",
+            "source_node_id": "34"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "46",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "42"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "47",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "41"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "48",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "38"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "49",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "40"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "50",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "39"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "51",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "36"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "53",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "35"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "54",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "37"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "25",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "18"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "60",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "37"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "61",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "35"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "62",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "36"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "63",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "39"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "64",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "40"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "65",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "41"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "66",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "38"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "67",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "42"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "68",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "33"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "69",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "32"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "70",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "34"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "16",
+            "id": "111",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "110"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "16",
+            "id": "112",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "109"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "110",
+            "id": "118",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "114"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "110",
+            "id": "120",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "115"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "110",
+            "id": "121",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "116"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "16",
+            "id": "123",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "122"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "109",
+            "id": "131",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "124"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "109",
+            "id": "132",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "125"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "109",
+            "id": "133",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "128"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "109",
+            "id": "134",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "127"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "109",
+            "id": "135",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "129"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "109",
+            "id": "136",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "130"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "122",
+            "id": "139",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "138"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "122",
+            "id": "140",
+            "name": "",
+            "namespace": "",
+            "source_node_id": "137"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "2",
+            "id": "152",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "151"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "151",
+            "id": "153",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "1"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "151",
+            "id": "155",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "154"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "156",
+            "id": "157",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "122"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "122",
+            "id": "161",
+            "name": "a_part_of",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "158"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "159",
+            "id": "162",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "158"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "160",
+            "id": "163",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "137"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "160",
+            "id": "164",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "138"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "156",
+            "id": "165",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "110"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "156",
+            "id": "166",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "109"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "127",
+            "id": "167",
+            "name": "match",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "38"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "127",
+            "id": "168",
+            "name": "match",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "35"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "127",
+            "id": "169",
+            "name": "match",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "37"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "8",
+            "id": "171",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "170"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "170",
+            "id": "172",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "143"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "8",
+            "id": "174",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "173"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "173",
+            "id": "175",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "142"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "173",
+            "id": "176",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "141"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "173",
+            "id": "177",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "144"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "173",
+            "id": "178",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "145"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "159",
+            "id": "179",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "114"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "159",
+            "id": "180",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "124"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "127",
+            "id": "181",
+            "name": "match",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "36"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "127",
+            "id": "182",
+            "name": "match",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "40"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "127",
+            "id": "184",
+            "name": "match",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "39"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "127",
+            "id": "185",
+            "name": "match",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "41"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "127",
+            "id": "186",
+            "name": "match",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "42"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "127",
+            "id": "187",
+            "name": "match",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "33"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "127",
+            "id": "188",
+            "name": "match",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "32"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "127",
+            "id": "189",
+            "name": "match",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "34"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "173",
+            "id": "193",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "190"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "173",
+            "id": "194",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "191"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "173",
+            "id": "195",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1634578094388",
+            "source_node_id": "192"
+        }
+    ],
+    "visualize_ont_path": ""
+}
