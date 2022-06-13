@@ -7,8 +7,11 @@ import docx
 import sqlite3
 import os
 import sys
-sys.path.insert(0, "D:/учёба/4/webSS/scivi.onto-master")
-import onto
+from pathlib import Path
+
+ontoPath = str(Path(__file__).parent.joinpath("..", "scivi.onto-master").resolve()) 
+sys.path.insert(1, ontoPath)
+
 from onto import Onto
 
 data=Onto.load_from_file("SC_ont1.ont")
