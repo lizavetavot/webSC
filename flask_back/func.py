@@ -1,8 +1,4 @@
-from asyncio.windows_events import NULL
-from posixpath import split
 import re
-import string
-import psycopg2
 import docx
 import sqlite3
 import os

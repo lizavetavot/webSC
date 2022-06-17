@@ -1,11 +1,6 @@
-# Import the required packages
 import os
-from flask import Flask, send_from_directory
-from flask import Flask, flash, request, redirect, url_for
-from werkzeug.utils import secure_filename;
-from flask_sqlalchemy import SQLAlchemy
+from flask import Flask, request
 from flask_cors import CORS
-from flask import Flask
 from func import _add, first, second, getcodemkb, setcodemkb, delete_bd
 from flask import send_from_directory
 import json
