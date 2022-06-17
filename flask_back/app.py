@@ -61,6 +61,6 @@ def download_file(name):
     return send_from_directory(app.config["UPLOAD_FOLDER"], name)
 
 if __name__=='__main__':
-    port = int(os.environ.get("PORT", "3000"))
+    port = int(os.environ.get("PORT", "5000"))
     host = os.environ.get("HOST", "127.0.0.1")
     app.run(port=port, host=host)
