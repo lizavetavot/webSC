@@ -1,0 +1,26 @@
+version: "3"
+
+services:
+  flask_back:
+    build:
+      dockerfile: flask_back.Dockerfile
+      context: .
+    restart: unless-stopped
+    ports:
+      - "${API_PORT:-5000}:5000"
+    expose:
+      - "${API_PORT:-5000}"
+    volumes:
+      - "./flask_back/med_files:/app/flask_back/med_files"
+      - "./flask_back/db:/app/flask_back/db"
+  sc_app:
+    build:
+      dockerfile: sc-app.Dockerfile
+      context: .
+      args:
+        REACT_APP_API_URL: "${API_URL:-http://localhost:5000}"
+    restart: unless-stopped
+    ports:
+      - "${APP_PORT:-8000}:80"
+    expose:
+      - "${APP_PORT:-8000}"
