@@ -9,7 +9,7 @@ export default function Tree123({goal_url, setcode})
     const [treeData,settreeData] = React.useState(null);
     axios({
       // Endpoint to send files
-      url: " http://localhost:5000/" + goal_url ,
+      url: `${process.env.REACT_APP_API_URL}/${goal_url}`,
       method: "GET" ,
       headers: {},
       })

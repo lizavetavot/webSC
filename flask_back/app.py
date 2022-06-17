@@ -1,11 +1,6 @@
-# Import the required packages
-import os;
-from flask import Flask, send_from_directory
-from flask import Flask, flash, request, redirect, url_for
-from werkzeug.utils import secure_filename;
-from flask_sqlalchemy import SQLAlchemy
+import os
+from flask import Flask, request
 from flask_cors import CORS
-from flask import Flask
 from func import _add, first, second, getcodemkb, setcodemkb, delete_bd
 from flask import send_from_directory
 import json
@@ -58,7 +53,9 @@ def func_delete():
 
 @app.route('/uploads/<name>')
 def download_file(name):
-
     return send_from_directory(app.config["UPLOAD_FOLDER"], name)
+
 if __name__=='__main__':
-    app.run()
+    port = int(os.environ.get("PORT", "5000"))
+    host = os.environ.get("HOST", "127.0.0.1")
+    app.run(port=port, host=host)
