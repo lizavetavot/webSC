@@ -62,4 +62,5 @@ def download_file(name):
 
 if __name__=='__main__':
     port = int(os.environ.get("PORT", "3000"))
-    app.run(PORT=port)
+    host = os.environ.get("HOST", "127.0.0.1")
+    app.run(port=port, host=host)
