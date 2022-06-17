@@ -17,7 +17,7 @@ for (const [key, element] of Object.entries(files)) {
     formData.append( "file" , element);
     formData.append( "name" , "Name" );
     axios({
-    url: " http://localhost:5000/files" ,
+    url: `${process.env.REACT_APP_API_URL}/files`,
     method: "POST" ,
     headers: {
     },

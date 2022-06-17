@@ -6,7 +6,7 @@ function func_delete()
 {
     axios({
         // Endpoint to send files
-        url: " http://localhost:5000/funcdelete"  ,
+        url: `${process.env.REACT_APP_API_URL}/funcdelete`,
         method: "GET" ,
         headers: {},
         })

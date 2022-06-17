@@ -9,7 +9,7 @@ function a_click()
     var name = document.getElementsByClassName("rstm-tree-item--active")[0].innerText.split("\n")[1];
     axios({
         // Endpoint to send files
-        url: " http://localhost:5000/setcodemkb" ,
+        url: `${process.env.REACT_APP_API_URL}/setcodemkb` ,
         method: "POST" ,
         headers: {},
         data: {code, name},
@@ -26,7 +26,7 @@ export default function ComboBox({goal_url})
     const [code_name, setcode_name] = React.useState(null);
     axios({
         // Endpoint to send files
-        url: " http://localhost:5000/getcodemkb" ,
+        url: `${process.env.REACT_APP_API_URL}/getcodemkb`,
         method: "GET" ,
         headers: {},
         })
