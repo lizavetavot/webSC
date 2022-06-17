@@ -1,3 +1,9 @@
+# User files
+flask_back/med_files/*.docx
+flask_back/db/*.db
+
+#==============================================================================
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,node,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,node,visualstudiocode
 

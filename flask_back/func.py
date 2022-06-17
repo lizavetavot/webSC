@@ -27,7 +27,7 @@ print(other_patterns)
 
 
 def delete_bd():
-    conn = sqlite3.connect('SyndromesSymptoms.db')
+    conn = sqlite3.connect('db/SyndromesSymptoms.db')
     cursor = conn.cursor()
     cursor.execute("DELETE from syndromes_from_teaching_aid")
     conn.commit() 
@@ -49,7 +49,7 @@ def getcodemkb():
     return rows
 
 def setcodemkb(code, name):
-    conn = sqlite3.connect('SyndromesSymptoms.db')
+    conn = sqlite3.connect('db/SyndromesSymptoms.db')
     cursor = conn.cursor()
     cursor.execute("update syndromes_from_teaching_aid set expert_code_icd = (?) where name =(?);", (code,name))
     conn.commit()
@@ -58,7 +58,7 @@ def setcodemkb(code, name):
 
 #заполнение treeview
 def  first():
-    conn = sqlite3.connect('SyndromesSymptoms.db')
+    conn = sqlite3.connect('db/SyndromesSymptoms.db')
     cursor = conn.cursor()
     treeData={}
     cursor.execute("select id, name, expert_code_icd from syndromes_from_teaching_aid;")
@@ -78,7 +78,7 @@ def  first():
     return treeData
 
 def createnode(treeData, expert_code, index, name):
-    conn = sqlite3.connect('SyndromesSymptoms.db')
+    conn = sqlite3.connect('db/SyndromesSymptoms.db')
     cursor = conn.cursor()
     
     if not(expert_code in treeData):
@@ -94,7 +94,7 @@ def createnode(treeData, expert_code, index, name):
     conn.close()
 
 def second():
-    conn = sqlite3.connect('SyndromesSymptoms.db')
+    conn = sqlite3.connect('db/SyndromesSymptoms.db')
     cursor = conn.cursor()
     treeData={}
     cursor.execute("select * from syndromes_from_teaching_aid;")
@@ -124,7 +124,7 @@ def second():
 
 #извлечение симптомов из предобработанного текста
 def take_symptoms():
-    conn = sqlite3.connect('SyndromesSymptoms.db')
+    conn = sqlite3.connect('db/SyndromesSymptoms.db')
     cursor = conn.cursor()
     conn1 = sqlite3.connect('mkb10.db')
     cursor1 = conn1.cursor()
@@ -319,7 +319,7 @@ def make_preprocessing(text):
     conn1.close()
 
 def _add(file_path):
-    conn = sqlite3.connect('SyndromesSymptoms.db')
+    conn = sqlite3.connect('db/SyndromesSymptoms.db')
     cursor = conn.cursor()
     file_path= re.sub ("/", "//", file_path)
     doc = docx.Document(file_path)
@@ -364,7 +364,7 @@ conn1 = sqlite3.connect('mkb10.db')
 #conn1 = sqlite3.connect('D:\\учёба\\3курс\\практика\\SymptCheckerSQLite\\mkb10.db')
 cursor1 = conn1.cursor()
 
-conn = sqlite3.connect('SyndromesSymptoms.db')
+conn = sqlite3.connect('db/SyndromesSymptoms.db')
 cursor = conn.cursor()
 #conn = psycopg2.connect(dbname='Diseases_and_Symptoms', user='postgres', password = 'polina')
 #cursor = conn.cursor()
